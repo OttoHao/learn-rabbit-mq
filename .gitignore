@@ -1,0 +1,12 @@
+#VisualStudio
+packages
+.vs/
+**/bin/
+**/[Bb]in/
+**/[Oo]bj/
+TestResults/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
